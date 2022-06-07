@@ -102,11 +102,7 @@ opencv-python==4.5.3.56
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.2
-pandocfilters==1.5.0
-paramiko==2.6.0
-parso==0.8.3
-pbr==5.6.0
-pexpect==4.6.0
+
 pickleshare==0.7.5
 Pillow==7.0.0
 platformdirs==2.1.0
@@ -164,9 +160,8 @@ rich==12.4.4
 rsa==4.8
 scikit-learn==1.1.1
 scipy==1.8.1
-SecretStorage==2.3.1
-semver==2.13.0
-Send2Trash==1.8.0
+
+
 simplejson==3.16.0
 sip==4.19.21
 smmap==5.0.0
