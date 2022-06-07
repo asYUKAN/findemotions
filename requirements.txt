@@ -1,8 +1,8 @@
+python==3.10
 absl-py==1.1.0
 altair==4.2.0
 altgraph==0.17
 appdirs==1.4.3
-python==3.10.5
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.4.1
