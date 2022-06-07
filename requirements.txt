@@ -140,10 +140,8 @@ pyrsistent==0.18.1
 PyScreeze==0.1.27
 PySocks==1.6.8
 pytesseract==0.3.8
-python-apt==2.0.0+ubuntu0.20.4.7
-python-dateutil==2.8.2
-python-debian===0.1.36ubuntu1
-python-decouple==3.5
+
+
 python-xlib==0.31
 python3-xlib==0.15
 PyTweening==1.0.3
