@@ -49,7 +49,6 @@ GitPython==3.1.27
 google-auth==2.6.6
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-gpg===1.13.1-unknown
 grpcio==1.46.3
 gunicorn==20.1.0
 h5py==3.7.0
