@@ -186,9 +186,6 @@ toolz==0.11.2
 tornado==6.1
 traitlets==5.2.2.post1
 typing_extensions==4.2.0
-tzdata==2022.1
-
-ufw==0.36
 
 urllib3==1.25.8
 
