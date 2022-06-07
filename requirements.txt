@@ -187,9 +187,9 @@ tornado==6.1
 traitlets==5.2.2.post1
 typing_extensions==4.2.0
 tzdata==2022.1
-tzlocal==4.2
+
 ufw==0.36
-unattended-upgrades==0.1
+
 urllib3==1.25.8
 
 validators==0.20.0
